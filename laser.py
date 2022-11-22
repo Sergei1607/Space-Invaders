@@ -24,9 +24,7 @@ class Laser(pygame.sprite.Sprite):
         self.rect.y += self.speed
         self.destroy()
         
-    def alien_lasers_update(self):
-        
-        print("test")
+  
         
              
            
